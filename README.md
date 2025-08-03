@@ -40,8 +40,8 @@
 
 ## 🖼️ Preview Aplikasi
 
-Tambahkan screenshot berikut ke folder `screenshots/`, lalu tampilkan seperti ini:
+
 
 ```markdown
-![Halaman Utama](screenshots/halaman-utama.png)
-![Form Tambah Buku](screenshots/form-tambah.png)
+[Halaman Utama](screenshots/halaman-utama.png)
+[Form Tambah Buku](screenshots/form-tambah.png)
