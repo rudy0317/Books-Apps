@@ -40,8 +40,14 @@
 
 ## 🖼️ Preview Aplikasi
 
+<table>
+  <tr>
+    <td><img src="screenshots/halaman-utama.png" width="300"/></td>
+    <td><img src="screenshots/form-tambah.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center">Halaman Utama</td>
+    <td align="center">Form Tambah Buku</td>
+  </tr>
+</table>
 
-
-```markdown
-[Halaman Utama](screenshots/halaman-utama.png)
-[Form Tambah Buku](screenshots/form-tambah.png)
